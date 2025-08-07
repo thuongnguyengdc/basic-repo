@@ -1,0 +1,24 @@
+{
+  "name": "basic-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuongnguyengdc/basic-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thuongnguyengdc/basic-repo/issues"
+  },
+  "homepage": "https://github.com/thuongnguyengdc/basic-repo#readme",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
